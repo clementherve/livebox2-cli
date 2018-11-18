@@ -1,4 +1,4 @@
-# livebox
+# Livebox Sysbus Wraper
 
 This simple python script is a wraper around the sysbus api of sagem Livebox. It allows you to view WIFI state & change it.
 
