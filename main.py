@@ -88,7 +88,6 @@ def wifiSetState(state, obj):
 ### UI
 ###################################
 def userInterface():
-	# if len(sys.argv) == 1:
 	obj = liveboxConnect()
 	print('**Livebox Connected **')
 	state = wifiGetState(obj)
